@@ -38,8 +38,8 @@ I am a passionate **Data Analyst** with experience in extracting, cleaning, and 
 ---
 
 ### 📊 My GitHub Stats
-![Bar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dataharvesters&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dataharvesters&layout=compact&theme=radical)
+![Bar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DataCropsHarvest&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DataCropsHarvest&layout=compact&theme=radical)
 
 ---
 

@@ -15,10 +15,11 @@ I am a passionate **Data Analyst** with experience in extracting, cleaning, and 
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, BigQuery) |
-| **Visualization** | Tableau, Power BI, Matplotlib, Seaborn |
-| **Data Tools** | Excel (Advanced), Jupyter Notebooks, Git |
+| **Languages** | Python (Pandas, NumPy), SQL (SQL Server, BigQuery) |
+| **Visualization** | Tableau, Power BI |
+| **Data Tools** | Excel (Advanced), Google Sheets, Jupyter Notebooks |
 | **Product Analysis** | A/B Testing, Funnel Analysis, Retention Modeling |
+| **AI Tools** | LLM, Prompt Enginering, NotebookLM |
 
 ---
 

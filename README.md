@@ -6,7 +6,7 @@ I am a passionate **Data Analyst** with experience in extracting, cleaning, and 
 - 🔭 I’m currently working on **Advanced SQL optimization and Predictive Modeling**.
 - 🌱 I’m currently learning **Machine Learning for Business Forecasting**.
 - 💬 Ask me about **SQL, Python, BI, AI and User Behavior Analysis**.
-- 📫 Reach me at: **[barkazir@gmailcom]**
+- 📫 Reach me at: **[barkazir@gmail.com]**
 - ⚡ Fun fact: I love finding the "Why" behind the numbers.
 
 ---
